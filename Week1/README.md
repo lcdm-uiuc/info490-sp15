@@ -11,7 +11,7 @@
 ### Activities and Assignments ###
 
 
-**Week 1 Introduction Video**
+**[Week 1 Introduction Video](https://mediaspace.illinois.edu/media/Week+One+Video/0_k99vv6k2)**
 
 
 - Time Estimate: 10 Minutes

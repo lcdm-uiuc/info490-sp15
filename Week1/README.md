@@ -18,19 +18,19 @@
 - Deadline: Tuesday
 - Points: NA
 
-**Week 1 Lesson 1: The UNIX File System**
+**[Week 1 Lesson 1: The UNIX File System](https://github.com/UI-DataScience/info490-sp15/blob/master/Week1/lesson1.md)**
 
 - Time Estimate: 2 Hours
 - Deadline:	Thursday
 - Points: 20
 
-**Week 1 Lesson 2: Working at the Unix Prompt**
+**[Week 1 Lesson 2: Working at the Unix Prompt](https://github.com/UI-DataScience/info490-sp15/blob/master/Week1/lesson2.md)**
 
 - Time Estimate: 2 Hours
 - Deadline: Thursday
 - Points: 20
 
-**Week 1 Lesson 3: Important UNIX Tools**
+**[Week 1 Lesson 3: Important UNIX Tools](https://github.com/UI-DataScience/info490-sp15/blob/master/Week1/lesson3.md)**
 
 - Time Estimate: 2 Hours 
 - Deadline: Thursday

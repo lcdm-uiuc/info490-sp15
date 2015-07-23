@@ -34,3 +34,6 @@ You will start by running codes in an IPython notebook, which you will run by us
 	- [Learn Python The Hard Way, 3rd Edition](http://learnpythonthehardway.org/book/)
 	- [A Byte of Python](http://www.ibiblio.org/g2swap/byteofpython/read/)
 
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 3 Lesson 2 Assessment.

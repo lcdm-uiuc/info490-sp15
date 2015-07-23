@@ -19,3 +19,6 @@ Approximately 2 hours.
 
 Chapters 5-7 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
 
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 3 Lesson 3 Assessment.

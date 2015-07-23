@@ -24,3 +24,7 @@ Approximately 3 hours.
 - [Bash (Unix Shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 - Read chapter 13 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine. 
 - Read chapter 6 (Vim editor) from the free ebook [Introduction to Linux: A Hands on Guide](http://www.tldp.org/LDP/intro-linux/html/sect_06_02.html) and follow along by entering the commands as directed into a terminal window within your virtual machine.
+
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 2 Lesson 1 Assessment.

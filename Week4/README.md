@@ -19,7 +19,7 @@ In this week, you will transition to more advanced Python programming concepts. 
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 4 Introduction Video](https://mediaspace.illinois.edu/media/Week+Four/1_crygh4oq)**|10 Minutes|Tuesday|NA|
-|**Week 4 Lesson 1: Python Data Structures**| 3 Hours |Thursday| 20|
+|**[Week 4 Lesson 1: Python Data Structures](https://github.com/UI-DataScience/info490-sp15/blob/master/Week4/lesson1.md)**| 3 Hours |Thursday| 20|
 |**Week 4 Lesson 2: Working with the Underlying File System**| 2 Hours | Thursday | 20 |
 |**Week 4 Lesson 3: Object-oriented Programming**| 2 Hours | Thursday| 20 |
 |**Week 4 Quiz**| 30 Minutes | Friday | 70|

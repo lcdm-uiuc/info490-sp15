@@ -25,3 +25,8 @@ Approximately 2 hours.
 - Read Chapter 4 from [The Git Tutorial](http://git-scm.com/book/en/v1/Getting-Started), and follow along by entering commands in a terminal window within your virtual machine.
 - [Got 15 minutes and want to learn Git?](https://try.github.io/levels/1/challenges/1)
 - [Set Up Git](https://help.github.com/articles/set-up-git/)
+
+
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 2 Lesson 3 Assessment.

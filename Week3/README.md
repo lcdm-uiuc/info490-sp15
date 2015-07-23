@@ -20,6 +20,6 @@ This week you will begin to learn how to use the Python programming language to 
 |**[Week 3 Introduction Video](https://mediaspace.illinois.edu/media/Week+Three/1_zz2e0clu)**|10 Minutes|Tuesday|NA|
 |**Week 3 Lesson 1: Introduction to iPython Notebook**| 2 Hours |Thursday| 20|
 |**Week 3 Lesson 2: Introduction to Python Programming**| 2 Hours | Thursday | 20 |
-|**Week 3 Lesson 3: Python Functions**| 2 Hours | Thursday| 20 |
+|**[Week 3 Lesson 3: Python Functions](https://github.com/UI-DataScience/info490-sp15/blob/master/Week3/lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 3 Quiz**| 35 Minutes | Friday | 70|
 |**Week 3 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 

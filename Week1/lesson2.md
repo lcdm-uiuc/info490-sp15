@@ -22,5 +22,5 @@ Approximately 2 hours.
 #### *Optional Additional Readings* ####
 - [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
 - [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linus: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
 

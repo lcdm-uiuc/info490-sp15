@@ -29,3 +29,6 @@ Approximately 2 hours.
 - Read about how to write [Markdown formatted](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/Markdown%20Cells.ipynb) IPython cells.
 - Learn about [IPython extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
 
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 3 Lesson 1 Assessment.

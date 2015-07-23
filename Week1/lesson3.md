@@ -21,5 +21,7 @@ Approximately 2 hours.
 #### *Optional Additional Readings* ####
 - Read chapters 7-8 from the free book [The Linux Command Line (PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp) and follow along by entering the commands as directed into a terminal window within your virtual machine.
 
+### Assessment ###
 
+When you have completed and worked through the above readings, please take the Week 1 Lesson 3 Assessment.
 

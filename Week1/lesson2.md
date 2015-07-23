@@ -24,3 +24,6 @@ Approximately 2 hours.
 - [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
 - [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
 
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 1 Lesson 2 Assessment.

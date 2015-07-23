@@ -29,3 +29,7 @@ Approximately 3 hours.
 	- [4 Awk If Statement Examples](http://www.thegeekstuff.com/2010/02/awk-conditional-statements/)
 - Read more about the [Stream Editor](http://tldp.org/LDP/Bash-Beginners-Guide/html/chap_05.html) program.
 - Learn more about [Unix shell scripts](https://en.wikipedia.org/wiki/Shell_script). 
+
+### Assessment ###
+
+When you have completed and worked through the above readings, please take the Week 2 Lesson 2 Assessment.

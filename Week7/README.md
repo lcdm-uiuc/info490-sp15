@@ -18,7 +18,7 @@ In this week, you will be introduced to statistical analysis, which is very impo
 
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
-|**[Week 7 Introduction Video]()**|10 Minutes|Tuesday|NA|
+|**[Week 7 Introduction Video](**|10 Minutes|Tuesday|NA|
 |**[Week 7 Lesson 1:Rules of Probability Theory](https://github.com/UI-DataScience/info490-sp15/blob/master/Week7/lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 7 Lesson 2:Statistical Decision Making](https://github.com/UI-DataScience/info490-sp15/blob/master/Week7/lesson2.md)**| 3 Hours | Thursday | 20 |
 |**[Week 7 Lesson 3:Linear Modeling](https://github.com/UI-DataScience/info490-sp15/blob/master/Week7/lesson3.md)**| 2 Hours | Thursday| 70 |

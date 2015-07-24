@@ -20,8 +20,8 @@ The lessons this week will focus on using an iPython notebook to create and use 
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 5 Introduction Video](https://mediaspace.illinois.edu/media/Week+Five/1_pf7naeyx)**|10 Minutes|Tuesday|NA|
-|**Week 5 Lesson 1:Introduction to Numpy**| 2 Hours |Thursday| 20|
-|**Week 5 Lesson 2:Introduction to Python Plotting with Matplotlib**| 3 Hours | Thursday | 20 |
-|**Week 5 Lesson 3:Making Data Visualizations in Python**| 3 Hours | Thursday| 70 |
+|**[Week 5 Lesson 1:Introduction to Numpy](https://github.com/UI-DataScience/info490-sp15/blob/master/Week5/lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 5 Lesson 2:Introduction to Python Plotting with Matplotlib](https://github.com/UI-DataScience/info490-sp15/blob/master/Week5/lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 5 Lesson 3:Making Data Visualizations in Python](https://github.com/UI-DataScience/info490-sp15/blob/master/Week5/lesson3.md)**| 3 Hours | Thursday| 70 |
 |**Week 5 Quiz**| 35 Minutes | Friday | 70|
 |**Week 5 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 

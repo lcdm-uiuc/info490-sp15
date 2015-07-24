@@ -16,8 +16,8 @@ In this week, you will learn about working with relational databases from a Pyth
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 11 Introduction Video](https://mediaspace.illinois.edu/media/Week+Eleven/1_nl1z924s)**|10 Minutes|Tuesday|NA|
-|**[Week 11 Lesson 1:Python Database Programming](**| 2 Hours |Thursday| 20|
-|**[Week 11 Lesson 2:Pandas Database Programming](**| 2 Hours | Thursday | 20 |
-|**[Week 11 Lesson 3:NoSQL Data Storage Technologies](**| 2 Hours | Thursday| 70 |
+|**[Week 11 Lesson 1:Python Database Programming](https://github.com/UI-DataScience/info490-sp15/blob/master/Week11/lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 11 Lesson 2:Pandas Database Programming](https://github.com/UI-DataScience/info490-sp15/blob/master/Week11/lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 11 Lesson 3:NoSQL Data Storage Technologies](https://github.com/UI-DataScience/info490-sp15/blob/master/Week11/lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 11 Quiz**| 35 Minutes | Friday | 70|
 |**Week 11 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 

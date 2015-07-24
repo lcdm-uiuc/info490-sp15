@@ -17,5 +17,5 @@ In this week, you will have only one lesson, which introduces high performance c
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 15 Introduction Video](https://mediaspace.illinois.edu/media/Week+Fifteen/1_adnicr0a)**|10 Minutes|Monday |NA|
-|**[Week 15 Lesson 1:Introduction to Python HPC](**| 2 Hours |Tuesday| 20|
+|**[Week 15 Lesson 1:Introduction to Python HPC](https://github.com/UI-DataScience/info490-sp15/blob/master/Week15/lesson1.md)**| 2 Hours |Tuesday| 20|
 

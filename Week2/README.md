@@ -18,6 +18,7 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
+|**[Week 2 Introduction Video]()** | 10 Minutes | Tuesday | NA|
 |**[Week 2 Lesson 1: UNIX File Processing & Management](https://github.com/UI-DataScience/info490-sp15/blob/master/Week2/lesson1.md)**| 3 Hours |Thursday| 20|
 |**[Week 2 Lesson 2: Unix Data Processing](https://github.com/UI-DataScience/info490-sp15/blob/master/Week2/lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 2 Lesson 3: Source Code Control with Git & Github](https://github.com/UI-DataScience/info490-sp15/blob/master/Week2/lesson3.md)**| 2 Hours | Thursday| 20 |

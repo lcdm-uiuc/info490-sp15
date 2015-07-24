@@ -18,9 +18,9 @@ In this week, you will begin to use Python to work with data. First, you will le
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 6 Introduction Video](https://mediaspace.illinois.edu/media/Week+Six/0_0hbqbrni)**|10 Minutes|Tuesday|NA|
-|**Week 6 Lesson 1:Data Access and Selection**| 2 Hours |Thursday| 20|
-|**Week 6 Lesson 2:Data Manipulation and Analysis**| 3 Hours | Thursday | 20 |
-|**Week 6 Lesson 3:Summary Statistics**| 3 Hours | Thursday| 70 |
+|**[Week 6 Lesson 1:Data Access and Selection](https://github.com/UI-DataScience/info490-sp15/blob/master/Week6/lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 6 Lesson 2:Data Manipulation and Analysis](https://github.com/UI-DataScience/info490-sp15/blob/master/Week6/lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 6 Lesson 3:Summary Statistics](https://github.com/UI-DataScience/info490-sp15/blob/master/Week6/lesson3.md)**| 3 Hours | Thursday| 70 |
 |**Week 6 Quiz**| 35 Minutes | Friday | 70|
 |**Week 6 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 

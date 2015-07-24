@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- [Seaborn TimeSeries]( Documentation.
+- [Seaborn TimeSeries](http://stanford.edu/~mwaskom/software/seaborn/generated/seaborn.tsplot.html) Documentation.
 
 #### *Optional Additional Readings*####
 

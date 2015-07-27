@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python data visual exploration](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week12/dataexplore.ipynb) 
+- Course IPython Notebook on [Python data visual exploration](dataexplore.ipynb) 
 
 #### *Optional Additional Readings*####
 

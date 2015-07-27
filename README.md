@@ -1,7 +1,9 @@
 # Welcome to INFO 490: Foundations of Data Science #
 
 Professor: Dr. Robert Brunner
+
 TA: Edward Kim
+
 Transcriber: Sam Thrush
 
 This class is an asynchronous, online course. This course will build a practical foundation for data science

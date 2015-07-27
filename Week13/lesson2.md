@@ -16,7 +16,7 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [dimensional reduction](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week13/intro2dr.ipynb)
+- Course IPython Notebook on [dimensional reduction](intro2dr.ipynb)
 - Dimensional Reduction in [scikit-learning](http://scikit-learn.org/stable/modules/decomposition.html#decompositions)
 - Another scikit-learn [tutorial](http://scikit-learn.org/stable/tutorial/statistical_inference/unsupervised_learning.html#decompositions-from-a-signal-to-components-and-loadings)
 

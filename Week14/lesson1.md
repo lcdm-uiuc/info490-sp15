@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to Cloud Computing with Docker [Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week14/intro2cloud.ipynb)
+- Introduction to Cloud Computing with Docker [Notebook](intro2cloud.ipynb)
 - Introduction to Cloud Computing from [Amazon.com](http://aws.amazon.com/what-is-cloud-computing/)
 
 

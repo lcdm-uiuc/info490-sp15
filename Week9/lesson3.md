@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course Data [Chloropeth Visualization](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week09/dataviz.ipynb) Notebook
+- Course Data [Chloropeth Visualization](dataviz.ipynb) Notebook
 - Python [Requests](http://docs.python-requests.org/en/latest/)
 
 #### *Optional Additional Readings*####

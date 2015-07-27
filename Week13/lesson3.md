@@ -16,7 +16,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [cluster finding](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week13/intro2clust.ipynb)
+- Course IPython Notebook on [cluster finding](intro2clust.ipynb)
 - Scikit-learn tutorial on [cluster finding](http://scikit-learn.org/stable/tutorial/statistical_inference/unsupervised_learning.html#clustering-grouping-observations-together)
 
 

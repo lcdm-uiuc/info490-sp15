@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python database interactions](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week11/dbNpy.ipynb) 
+- Course IPython Notebook on [Python database interactions](dbNpy.ipynb) 
 
 #### *Optional Additional Readings*####
 

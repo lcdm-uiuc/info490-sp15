@@ -69,3 +69,22 @@ This course is project-based in its use of assignments that build progressively 
 |Weekly Quizzes|70|15(Week 1 is only 40 points|1020|
 |Assignments (Weeks 1-14)|150|14 (Week 1 is only 30 points)|1980|
 |***Total***|||***4000***|
+
+### Grading Scale ###
+Final grades will be graded on a curve, if necessary. The letter grade cutoffs will be set at the traditional 90%, 80%, and 70% limits, and plus/minus will be added if you are within two points of the traditional cutoffs (so 100–98 is an A+ and 90–92 is an A-).
+
+|Percentage|Letter Grade|
+|--------|---------|
+|98-100|A+|
+|92-98|A|
+|90-92|A-|
+|88-90|B+|
+|82-88|B|
+|80-82|B-|
+|78-80|C+|
+|72-78|C|
+|70-72|C-|
+|68-70|D+|
+|62-68|D|
+|60-62|D-|
+|Below 60|F|

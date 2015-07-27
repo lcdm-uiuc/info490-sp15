@@ -18,12 +18,12 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Data Parsing](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week09/intro2dp.ipynb)
+- Course IPython Notebook on [Data Parsing](intro2dp.ipynb)
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 #### *Optional Additional Readings*####
 
-- A course [primer notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week09/intro2pandas.ipynb) on Pandas
+- A course [primer notebook](intro2pandas.ipynb) on Pandas
 - A [web scraping](http://nbviewer.ipython.org/url/www.unc.edu/~ncaren/Lax-1.ipynb.json) in Python tutorial
 - Another [web scraping](http://nbviewer.ipython.org/urls/dl.dropboxusercontent.com/u/33663928/dst4l-projects/week5/Web_Scraping_Tutorial-TotalFilm_50_Adaptations.ipynb) in Python tutorial
 

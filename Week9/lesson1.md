@@ -20,7 +20,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week09/dataformats.ipynb) on Data Formats
+- Course [IPython Notebook](dataformats.ipynb) on Data Formats
 
 #### *Optional Additional Readings*####
 

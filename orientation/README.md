@@ -21,8 +21,8 @@ Below is a list of the activities and assignments you must complete in this orie
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
 |[Course Overview Video](https://mediaspace.illinois.edu/media/Course+Information+Video/1_z8jtrmz2)|15 Minutes|Wednesday|NA|
-|Course Information and Resources|1 Hour|Wednesday|NA|
-|Install Docker & Info490 Container|1 Hour|Wednesday|NA|
+|[Course Information and Resources](syllabus.md)|1 Hour|Wednesday|NA|
+|[Install Docker & Info490 Container](docker/README.md)|1 Hour|Wednesday|NA|
 |Electronic Reserves Login|10 Minutes|Wednesday|NA|
 |Pre-Class Activity: Introduce Yourself|30 Minutes|Wednesday|60|
 

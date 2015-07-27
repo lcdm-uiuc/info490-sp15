@@ -18,7 +18,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to [Data Persistence Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week10/intro2db.ipynb)
+- Introduction to [Data Persistence Notebook](intro2db.ipynb)
 
 #### *Optional Additional Readings*####
 

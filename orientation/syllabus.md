@@ -28,7 +28,7 @@ There are no required textbooks for this course. Instead, we will utilize intern
 |*Week 8*| Time Series Data|Week 8 Lesson 1: Introduction to Time Series Data; Week 8 Lesson 2: Introduction to Time Series Data with Seaborn; Week 8 Lesson 3: Introduction to Twitter Data Mining; Week 8 Assignment; Week 8 Quiz |
 |*Week 9*| Introduction to Data Processing|Week 9 Lesson 1: Data Formats; Week 9 Lesson 2: Data Parsing; Week 9 Lesson 3: Working with Data; Week 9 Assignment; Week 9 Quiz |
 |*Week 10*| Introduction to Data Persistence|Week 10 Lesson 1: Relational Database; Week 10 Lesson 2: Using SQL for Schema Manipulation; Week 10 Lesson 3: Using SQL for Data Manipulation; Week 10 Assignment; Week 10 Quiz |
-|*Week 11*| Advanced Data Persistence |Week 11 Lesson 1: Python Database Programming; Week 11 Lesson 2: Pandas and Databases
+|*Week 11*| Advanced Data Persistence | Week 11 Lesson 1: Python Database Programming; Week 11 Lesson 2: Pandas and Databases
 Week 11 Lesson 3: NoSQL Data Storage; Week 11 Assignment; Week 11 Quiz |
 |*Week 12*| Data Exploration|Week 12 Lesson 1: Data Preparation; Week 12 Lesson 2: Visual Exploration; Week 12 Lesson 3: Statistical Exploration; Week 12 Assignment; Week 12 Quiz |
 |*Week 13*| Machine Learning|Week 13 Lesson 1: Supervised Learning; Week 13 Lesson 2: Unsupervised Learning; Week 13 Lesson 3: Clustering; Week 13 Assignment; Week 13 Quiz |

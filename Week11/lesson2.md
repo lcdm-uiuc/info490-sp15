@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week11/intro2pandasdb.ipynb), which you can view online or (better yet) download and run locally.
+- Course [IPython Notebook](intro2pandasdb.ipynb), which you can view online or (better yet) download and run locally.
 
 #### *Optional Additional Readings*####
 

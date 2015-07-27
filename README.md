@@ -1,5 +1,9 @@
 # Welcome to INFO 490: Foundations of Data Science #
 
+Professor: Dr. Robert Brunner
+TA: Edward Kim
+Transcriber: Sam Thrush
+
 This class is an asynchronous, online course. This course will build a practical foundation for data science
 by teaching students basic tools and techniques that can scale to large computational systems and massive data sets.
 
@@ -15,4 +19,4 @@ This class is open to sophomores, juniors, seniors and graduate students in any 
 
 Please refer to the [course syllabus]( for more information about course content and grading policies.
 
-If you have any questions, or if something is not working properly, ***PLEASE*** look through the [FAQs]( wiki page before emailing TA or course instructor.  
+If you have any questions, or if something is not working properly, ***PLEASE*** look through the [FAQs](https://github.com/UI-DataScience/info490-sp15.wiki.git) wiki page before emailing TA or course instructor.  

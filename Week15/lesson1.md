@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course Python HPC [Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week15/pyhpc.ipynb)
+- Course Python HPC [Notebook](pyhpc.ipynb)
 
 
 #### *Optional Additional Readings*####

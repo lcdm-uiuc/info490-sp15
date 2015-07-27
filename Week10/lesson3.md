@@ -17,7 +17,7 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Introduction to [SQL DML Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week10/intro2sqldml.ipynb)
+- Introduction to [SQL DML Notebook](intro2sqldml.ipynb)
 
 #### *Optional Additional Readings*####
 

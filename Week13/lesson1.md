@@ -17,7 +17,7 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [supervised learning](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week13/intro2dm.ipynb)
+- Course IPython Notebook on [supervised learning](intro2dm.ipynb)
 
 #### *Optional Additional Readings*####
 

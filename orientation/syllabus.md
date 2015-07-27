@@ -34,3 +34,27 @@ There are no required textbooks for this course. Instead, we will utilize intern
 |*Week 14*| Introduction to Cloud Computing|Week 14 Lesson 1: Introduction to Cloud Computing; Week 14 Lesson 2: Running Containers in the Cloud; Week 14 Lesson 3: Introduction to Hadoop; Week 14 Assignment; Week 14 Quiz |
 |*Week 15*| Introduction to High Performance Computing with Python|Week 15 Lesson 1: Introduction to Python HPC; Week 15 Assignment; Week 15 Quiz |
 
+
+## Weekly Format ##
+Each week will provide learning objectives and an outline of the activities for that week with a list of all deadlines and corresponding point values for assignments.
+
+### Readings ###
+Readings will consist of articles and excerpts from books and Web sites. You will be required to read and be familiar with the content of these documents. Readings are contextualized as part of the weekly lesson content and are located in the "Background" section of each lesson.
+
+### Lessons ###
+Lessons will expand upon, or clarify key concepts in the reading assignments or supplement or add to the reading. All lessons for a given week must be completed by 6:00 PM Central on Thursday of that week.
+
+### Lesson Assessments ###
+Each week will contain three lesson modules (except for the last week, which will contain only one). A lesson module will will include a quiz designed to be taken after completing the readings and carefully reviewing the lesson material. Lesson quizzes will allow two attempts, to ensure students have mastered the relevant material before advancing to the next lesson module. The lessons assessments must all be completed by 6:00 PM Central on Thursday of that week.
+
+### Assignments ###
+Each week will contain an assignment that will involve one or more computational tasks related to the focus for that given week. The assignment must be submitted via the Moodle Workshop tool for the relevant week. The Assignment is due by 6:00 PM Central on Saturday of that week. No submissions will be accepted past this deadline.
+
+### Peer Review ###
+Weekly assignments will be reviewed by course peers, as well as the instructor. 40% of the grade for each weekly assignment submission will derive from peer review, 60% from instructor review. You will receive 50 pts each week for simply viewing and grading your peers' assignments. Note that you can (and should) still grade your peers even if you miss an assignment submission. Peer review of an assignment must be completed by 6:00 PM Central on Tuesday of the following week (i.e., you submit your assignment on a Saturday and then must peer assess other students assignments by the following Tuesday).
+
+### Weekly Quizzes ###
+In addition to the lesson quizzes, each week will conclude with a weekly quiz. The weekly quiz is designed to test your overall mastery of the content for each given week. Unlike the lesson quizzes, weekly quizzes will be timed and will not allow multiple attempts. The quiz must be completed by 6:00 PM Central on Friday of that week.
+
+### Exams ###
+This course is project-based in its use of assignments that build progressively on content mastery, application, and peer review; there are no exams in this course.

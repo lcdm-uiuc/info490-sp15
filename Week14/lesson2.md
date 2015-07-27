@@ -18,7 +18,7 @@ Approximately 3 hours.
 ### Readings ####
 
 - Getting started with [Google Cloud SDK](https://github.com/UI-DataScience/spring2015/blob/master/week14/README.md)
-- Running Docker Containers in the [Cloud Notebook](http://nbviewer.ipython.org/github/INFO490/spring2015/blob/master/week14/intro2gc.ipynb)
+- Running Docker Containers in the [Cloud Notebook](intro2gc.ipynb)
 
 
 #### *Optional Additional Readings*####

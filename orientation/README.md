@@ -24,7 +24,7 @@ Below is a list of the activities and assignments you must complete in this orie
 |[Course Information and Resources](syllabus.md)|1 Hour|Wednesday|NA|
 |[Install Docker & Info490 Container](docker_orientation.md)|1 Hour|Wednesday|NA|
 |[Electronic Reserves Login](Electronic-Reserves-Login.md)|10 Minutes|Wednesday|NA|
-|Pre-Class Activity: Introduce Yourself|30 Minutes|Wednesday|60|
+|[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
 
 
 ## Tips for Success ##

@@ -68,5 +68,4 @@ This course is project-based in its use of assignments that build progressively 
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|15(Week 1 is only 40 points|1020|
 |Assignments (Weeks 1-14)|150|14 (Week 1 is only 30 points)|1980|
-|------|------|------|--------|
-|Total|||4000|
+|***Total***|||***4000***|

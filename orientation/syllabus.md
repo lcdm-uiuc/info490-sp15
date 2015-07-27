@@ -17,9 +17,7 @@ There are no required textbooks for this course. Instead, we will utilize intern
 
 | **Week** | **Topics**| **Assignments**|
 |----------|-----------|----------------|
-|*Orientation Week*| Course Overview & Syllabus Review| Pre-Class Activity: Introduce Yourself
-Install Docker & INFO490 Container
-Orientation Quiz|
+|*Orientation Week*| Course Overview & Syllabus Review| Pre-Class Activity: Introduce Yourself; Install Docker & INFO490 Container; Orientation Quiz|
 |*Week 1*| Introduction to Unix| Week 1 Lesson 1: Virtualization and Dockers; Week 1 Lesson 2: The Unix Shell; Week 1 Lesson 3: Basic Unix Concepts; Week 1 Assignment; Week 1 Quiz|
 |*Week 2*| Introduction to Command-Line Data Science | Week 2 Lesson 1: Unix File Processing & Management; Week 2 Lesson 2: Unix Data Processing; Week 2 Lesson 3: Source Code Control with Git & Github; Week 2 Assignment; Week 2 Quiz|
 | *Week 3*| Introduction to the Python Programming Language| Week 3 Lesson 1: Working with the iPython Notebook; Week 3 Lesson 2: Introduction to Python Programming; Week 3 Lesson 3: Python Functions; Week 3 Assignment; Week 3 Quiz|

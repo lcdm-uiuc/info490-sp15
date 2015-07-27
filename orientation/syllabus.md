@@ -58,3 +58,15 @@ In addition to the lesson quizzes, each week will conclude with a weekly quiz. T
 
 ### Exams ###
 This course is project-based in its use of assignments that build progressively on content mastery, application, and peer review; there are no exams in this course.
+
+## Grading ##
+### Grading Distribution ###
+|Assignment | Points| Occurrences| Total Points |
+|-----------|-----|-----|-----|
+|Pre-Class Activity: Introduce Yourself| 70|1|70|
+|Orientation Quiz|70|1|70|
+|Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
+|Weekly Quizzes|70|15(Week 1 is only 40 points|1020|
+|Assignments (Weeks 1-14)|150|14 (Week 1 is only 30 points)|1980|
+|------|------|------|--------|
+|Total|||4000|

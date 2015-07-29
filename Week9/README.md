@@ -18,9 +18,9 @@ In this week, you will learn about basic data processing tasks. First we will di
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 9 Introduction Video](https://mediaspace.illinois.edu/media/Week+Nine/1_wjx4slvk)**|10 Minutes|Tuesday|NA|
-|**[Week 9 Lesson 1:Data Formats](https://github.com/UI-DataScience/info490-sp15/blob/master/Week9/lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 9 Lesson 2:Data Parsing](https://github.com/UI-DataScience/info490-sp15/blob/master/Week9/lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 9 Lesson 3:Working with Data](https://github.com/UI-DataScience/info490-sp15/blob/master/Week9/lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 9 Lesson 1:Data Formats](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 9 Lesson 2:Data Parsing](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 9 Lesson 3:Working with Data](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 9 Quiz**| 35 Minutes | Friday | 70|
 |**Week 9 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 

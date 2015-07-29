@@ -16,8 +16,8 @@ This week you will learn about relational database management systems (RDBMS), s
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 10 Introduction Video](https://mediaspace.illinois.edu/media/Week+Ten/1_ru9yscle)**|10 Minutes|Tuesday|NA|
-|**[Week 10 Lesson 1:Relational Database & SQLite](https://github.com/UI-DataScience/info490-sp15/blob/master/Week10/lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 10 Lesson 2:SQL DDL](https://github.com/UI-DataScience/info490-sp15/blob/master/Week10/lesson2.md)**| 3 Hours | Thursday | 20 |
-|**[Week 10 Lesson 3:SQL DML](https://github.com/UI-DataScience/info490-sp15/blob/master/Week10/lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 10 Lesson 1:Relational Database & SQLite](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 10 Lesson 2:SQL DDL](lesson2.md)**| 3 Hours | Thursday | 20 |
+|**[Week 10 Lesson 3:SQL DML](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**Week 10 Quiz**| 35 Minutes | Friday | 70|
 |**Week 10 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 

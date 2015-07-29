@@ -17,9 +17,9 @@ In this week, you will learn about some basic approaches to data exploration, wh
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 12 Introduction Video](https://mediaspace.illinois.edu/media/Week+Twelve/0_ll7ga29f)**|10 Minutes|Tuesday|NA|
-|**[Week 12 Lesson 1: Data Preparation](https://github.com/UI-DataScience/info490-sp15/blob/master/Week12/lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 12 Lesson 2: Visual Exploration](https://github.com/UI-DataScience/info490-sp15/blob/master/Week12/lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 12 Lesson 3: Statistical Exploration](https://github.com/UI-DataScience/info490-sp15/blob/master/Week12/lesson3.md)**| 3 Hours | Thursday| 70 |
+|**[Week 12 Lesson 1: Data Preparation](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 12 Lesson 2: Visual Exploration](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 12 Lesson 3: Statistical Exploration](lesson3.md)**| 3 Hours | Thursday| 70 |
 |**Week 12 Quiz**| 35 Minutes | Friday | 70|
 |**Week 12 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 

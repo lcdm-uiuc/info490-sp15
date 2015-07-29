@@ -17,8 +17,8 @@ In this week, you will learn about basic machine learning concepts, including su
 |Activities and Assignments | Time Estimate | Deadline | Points|
 |:------| -----|-------|----------:|
 |**[Week 13 Introduction Video](https://mediaspace.illinois.edu/media/Week+Thirteen.mp4/0_7wlk1w5v)**|10 Minutes|Tuesday|NA|
-|**[Week 13 Lesson 1:Supervised Learning](https://github.com/UI-DataScience/info490-sp15/blob/master/Week13/lesson1.md)**| 3 Hours |Thursday| 20|
-|**[Week 13 Lesson 2:Dimensional Reduction](https://github.com/UI-DataScience/info490-sp15/blob/master/Week13/lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 13 Lesson 3:Cluster Finding](https://github.com/UI-DataScience/info490-sp15/blob/master/Week13/lesson3.md)**| 2 Hours | Thursday| 70 |
+|**[Week 13 Lesson 1:Supervised Learning](lesson1.md)**| 3 Hours |Thursday| 20|
+|**[Week 13 Lesson 2:Dimensional Reduction](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 13 Lesson 3:Cluster Finding](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 13 Quiz**| 35 Minutes | Friday | 70|
 |**Week 13 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 

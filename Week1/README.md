@@ -1,5 +1,5 @@
 ### Objectives ###
-
+[Unix Image](Week1/Unix_image.jpg)
 #####By the end of this lesson, you should be able to:######
 
 - Use a terminal window to interact with the Unix file system.

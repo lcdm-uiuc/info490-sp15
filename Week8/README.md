@@ -1,5 +1,5 @@
 #Week 8 Overview#
-![NYC snow time series](nycsnowfall.jpg)
+
 ## Time Series Data ##
 
 In this week, you will learn about time series data, how to work with them in Pandas and how to visualize them by using Seaborn. Time Series data are everywhere, and while often simple in content (e.g., a one dimensional array indexed by time) they often support rich data mining opportunities. As an example, the last lesson in this week focuses on mining twitter streams, which can be viewed as a time series.
@@ -17,7 +17,7 @@ In this week, you will learn about time series data, how to work with them in Pa
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 8 Introduction Video](https://mediaspace.illinois.edu/media/Week+Eight/1_hib4j232)**|10 Minutes|Tuesday|NA|
 |**[Week 8 Lesson 1:Introduction to Time Series Data with Pandas](lesson1.md)**| 3 Hours |Thursday| 20|
@@ -26,3 +26,6 @@ In this week, you will learn about time series data, how to work with them in Pa
 |**Week 8 Quiz**| 35 Minutes | Friday | 70|
 |**Week 8 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

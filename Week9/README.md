@@ -1,5 +1,5 @@
 #Week 9 Overview#
-![chloropeth heat map](hqdefault.jpg)
+
 ## Introduction to Data Processing ##
 
 In this week, you will learn about basic data processing tasks. First we will discuss different data file formats like text, XML, JSON, and HDF. Next, we will discuss data parsing, which is used to extract data from structured data formats. Finally, we will use these skills to make a Chloropeth visualization.
@@ -16,7 +16,7 @@ In this week, you will learn about basic data processing tasks. First we will di
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 9 Introduction Video](https://mediaspace.illinois.edu/media/Week+Nine/1_wjx4slvk)**|10 Minutes|Tuesday|NA|
 |**[Week 9 Lesson 1:Data Formats](lesson1.md)**| 2 Hours |Thursday| 20|
@@ -25,3 +25,6 @@ In this week, you will learn about basic data processing tasks. First we will di
 |**Week 9 Quiz**| 35 Minutes | Friday | 70|
 |**Week 9 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

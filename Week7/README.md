@@ -1,5 +1,4 @@
 #Week 7 Overview#
-![scatter_plot](regression_9_0.png)
 ## Introduction to Statistical Analysis ##
 
 In this week, you will be introduced to statistical analysis, which is very important with large data sets since you may need to either make a decision based on summary information or make a quick decision without being able to completely scan a data file. Furthermore, you also might wish to model some data component, in order to make future predictions or to better understand some physical process. All of these cases require an understanding of basic statistical analysis, which we will cover during week seven of this course. This week, you will learn about summary statistics, density functions, distributions functions, basic Bayesian analysis, and introductory statistical analysis including lear modeling and regression.
@@ -17,7 +16,7 @@ In this week, you will be introduced to statistical analysis, which is very impo
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 7 Introduction Video](https://mediaspace.illinois.edu/media/Week+Seven.mov/0_h6ao1v11/26162631)**|10 Minutes|Tuesday|NA|
 |**[Week 7 Lesson 1:Rules of Probability Theory](lesson1.md)**| 3 Hours |Thursday| 20|
@@ -26,3 +25,6 @@ In this week, you will be introduced to statistical analysis, which is very impo
 |**Week 7 Quiz**| 35 Minutes | Friday | 70|
 |**Week 7 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

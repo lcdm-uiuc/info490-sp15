@@ -1,5 +1,5 @@
 #Week 2 Overview#
-![Command-line image](command-line.jpg)
+
 ## Introduction to Command-Line Data Science ##
 
 In this week, you will learn to perform data science tasks at the Unix prompt. First, you will learn about working with data by using the Vim text editor, how to work with networked resources, and how to find relevant files located within a Unix file system. Next, you will learn about some simple yet powerful Unix tools to perform basic data processing at the command prompt, and how to turn these into persistent Shell programs. Finally, you will learn about source code versioning tools and in particular learn how to use git to maintain a software project.
@@ -17,7 +17,7 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 2 Introduction Video](https://mediaspace.illinois.edu/media/Week+Two+Video/0_hfbyotx2)** | 10 Minutes | Tuesday | NA|
 |**[Week 2 Lesson 1: UNIX File Processing & Management](lesson1.md)**| 3 Hours |Thursday| 20|
@@ -25,3 +25,7 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 |**[Week 2 Lesson 3: Source Code Control with Git & Github](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**Week 2 Quiz**| 30 Minutes | Friday | 70|
 |**Week 2 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

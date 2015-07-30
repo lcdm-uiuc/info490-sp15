@@ -1,4 +1,5 @@
 #Week 9 Overview#
+![chloropeth heat map](hqdefault.jpg)
 ## Introduction to Data Processing ##
 
 In this week, you will learn about basic data processing tasks. First we will discuss different data file formats like text, XML, JSON, and HDF. Next, we will discuss data parsing, which is used to extract data from structured data formats. Finally, we will use these skills to make a Chloropeth visualization.

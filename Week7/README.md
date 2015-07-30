@@ -1,4 +1,5 @@
 #Week 7 Overview#
+![scatter_plot](regression_9_0.png)
 ## Introduction to Statistical Analysis ##
 
 In this week, you will be introduced to statistical analysis, which is very important with large data sets since you may need to either make a decision based on summary information or make a quick decision without being able to completely scan a data file. Furthermore, you also might wish to model some data component, in order to make future predictions or to better understand some physical process. All of these cases require an understanding of basic statistical analysis, which we will cover during week seven of this course. This week, you will learn about summary statistics, density functions, distributions functions, basic Bayesian analysis, and introductory statistical analysis including lear modeling and regression.

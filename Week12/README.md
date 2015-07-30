@@ -14,7 +14,7 @@ In this week, you will learn about some basic approaches to data exploration, wh
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 12 Introduction Video](https://mediaspace.illinois.edu/media/Week+Twelve/0_ll7ga29f)**|10 Minutes|Tuesday|NA|
 |**[Week 12 Lesson 1: Data Preparation](lesson1.md)**| 2 Hours |Thursday| 20|
@@ -23,3 +23,6 @@ In this week, you will learn about some basic approaches to data exploration, wh
 |**Week 12 Quiz**| 35 Minutes | Friday | 70|
 |**Week 12 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

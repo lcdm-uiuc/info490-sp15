@@ -14,8 +14,11 @@ In this week, you will have only one lesson, which introduces high performance c
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 15 Introduction Video](https://mediaspace.illinois.edu/media/Week+Fifteen/1_adnicr0a)**|10 Minutes|Monday |NA|
 |**[Week 15 Lesson 1:Introduction to Python HPC](lesson1.md)**| 2 Hours |Tuesday| 20|
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

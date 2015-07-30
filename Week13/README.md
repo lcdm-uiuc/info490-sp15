@@ -14,7 +14,7 @@ In this week, you will learn about basic machine learning concepts, including su
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 13 Introduction Video](https://mediaspace.illinois.edu/media/Week+Thirteen.mp4/0_7wlk1w5v)**|10 Minutes|Tuesday|NA|
 |**[Week 13 Lesson 1:Supervised Learning](lesson1.md)**| 3 Hours |Thursday| 20|
@@ -22,3 +22,7 @@ In this week, you will learn about basic machine learning concepts, including su
 |**[Week 13 Lesson 3:Cluster Finding](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 13 Quiz**| 35 Minutes | Friday | 70|
 |**Week 13 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

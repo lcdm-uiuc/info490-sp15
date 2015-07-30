@@ -14,7 +14,7 @@ In this week, you will learn about the cloud computing paradigm. First, you will
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 14 Introduction Video](https://mediaspace.illinois.edu/media/Week+Fourteen.mp4/1_1mec91zu)**|10 Minutes|Tuesday|NA|
 |**[Week 14 Lesson 1: Introduction to Cloud Computing](lesson1.md)**| 3 Hours |Thursday| 20|
@@ -23,3 +23,6 @@ In this week, you will learn about the cloud computing paradigm. First, you will
 |**Week 14 Quiz**| 35 Minutes | Friday | 70|
 |**Week 14 Assignment**| 3 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
 
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

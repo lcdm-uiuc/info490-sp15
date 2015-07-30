@@ -13,7 +13,7 @@ In this week, you will learn about working with relational databases from a Pyth
 
 ### Activities and Assignments ###
 
-|Activities and Assignments | Time Estimate | Deadline | Points|
+|Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 11 Introduction Video](https://mediaspace.illinois.edu/media/Week+Eleven/1_nl1z924s)**|10 Minutes|Tuesday|NA|
 |**[Week 11 Lesson 1:Python Database Programming](lesson1.md)**| 2 Hours |Thursday| 20|
@@ -21,3 +21,7 @@ In this week, you will learn about working with relational databases from a Pyth
 |**[Week 11 Lesson 3:NoSQL Data Storage Technologies](lesson3.md)**| 2 Hours | Thursday| 70 |
 |**Week 11 Quiz**| 35 Minutes | Friday | 70|
 |**Week 11 Assignment**| 2 Hour | Saturday | 60 (from instructor) 40 (from peers) 50 (for completing the peer review) | 
+
+*Please note that unless otherwise noted, the due time is 6pm Central time!
+
+Photo Credit:

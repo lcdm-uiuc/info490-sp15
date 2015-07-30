@@ -7,7 +7,7 @@ In this lesson, you will learn about applying the basic statistical concepts you
 By the end of this lesson, you will be able to:
 
 - Understand the Relationship between a scatter plot and a linear model
-- Understand how ti display and interpret the uncertainty on a linear model fit
+- Understand how to display and interpret the uncertainty on a linear model fit
 - Understand the utility of jitter in scatter plots.
 - Know how to plot joint distributions.
 

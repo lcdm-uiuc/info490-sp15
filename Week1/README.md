@@ -1,5 +1,6 @@
+#Week 1: Introduction to Unix#
 ### Objectives ###
-![Unix Image](Unix_Licence-Plate.jpg)
+![Unix Image](Unix-Licence-Plate.jpg)
 #####By the end of this lesson, you should be able to:######
 
 - Use a terminal window to interact with the Unix file system.

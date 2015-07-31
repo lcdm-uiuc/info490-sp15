@@ -1,4 +1,5 @@
 #Week 5 Overview#
+![XKCD sustainability comic](xkcd_sustainable.png)
 ## Data Visualization ##
 
 The lessons this week will focus on using an iPython notebook to create and use fast numerical arrays and to make data visualizations. This week we switch our focus from general programming tasks, to data visualization. In particular, you will learn how to make numerical arrays by using the Numpy library, to make general plots, and how to create and interpret scatter plots and histograms by using the Matplotlib  and Seaborn libraries.
@@ -28,4 +29,4 @@ The lessons this week will focus on using an iPython notebook to create and use 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
-Photo Credit:
+Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.

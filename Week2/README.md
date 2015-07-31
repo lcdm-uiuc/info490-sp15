@@ -1,5 +1,5 @@
 #Week 2 Overview#
-
+![Command line image](command-line.PNG)
 ## Introduction to Command-Line Data Science ##
 
 In this week, you will learn to perform data science tasks at the Unix prompt. First, you will learn about working with data by using the Vim text editor, how to work with networked resources, and how to find relevant files located within a Unix file system. Next, you will learn about some simple yet powerful Unix tools to perform basic data processing at the command prompt, and how to turn these into persistent Shell programs. Finally, you will learn about source code versioning tools and in particular learn how to use git to maintain a software project.
@@ -28,4 +28,4 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
-Photo Credit:
+Photo Credit: Command Line Screen Shot by Jim Hoskins. 27 Sept. 2012. http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line. 31 July 2015

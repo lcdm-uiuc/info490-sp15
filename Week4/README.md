@@ -1,5 +1,5 @@
 #Week 4 Overview#
-
+![python logo](../Week3/python-logo.png)
 ## Advanced Python Programming Language ##
 
 In this week, you will transition to more advanced Python programming concepts. First, you will learn how to work with advanced Python data structures like the List, Dictionary, String, and Tuple. Second, you will learn how to write an actual Python program that runs at the command prompt, before learning how to work with files from a Python program. Next you will learn about comprehensions and regular expression. Finally you will learn the basics of creating and using classes and objects in a Python program.
@@ -28,4 +28,4 @@ In this week, you will transition to more advanced Python programming concepts. 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
-Photo Credit:
+Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.

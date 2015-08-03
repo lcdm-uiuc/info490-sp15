@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course Python HPC [Notebook](pyhpc.ipynb)
+- Course Python HPC [Notebook](notebook/pyhpc.ipynb)
 
 
 #### *Optional Additional Readings*####

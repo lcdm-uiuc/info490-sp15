@@ -4,7 +4,7 @@
 
 ***TA:*** Edward Kim
 
-***Transcriber:*** Sam Thrush
+***Course Designer:*** Sam Thrush
 
 This class is an asynchronous, online course. This course will build a practical foundation for data science
 by teaching students basic tools and techniques that can scale to large computational systems and massive data sets.

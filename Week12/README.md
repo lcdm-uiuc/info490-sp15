@@ -1,5 +1,5 @@
 #Week 12 Overview#
-![Data Mining comic strip](datamining1.jpg)
+![Data Mining comic strip](images/datamining1.jpg)
 ## Data Exploration ##
 
 In this week, you will learn about some basic approaches to data exploration, which is a crucial step before embarking on more complex data modeling or mining tasks. First, you will use an instructor supplied IPython Notebook to understand the challenges of working with large data, including handling excessive memory usage, limiting data rows and columns, and specifying data types to minimize data volume. Second, you will use an instructor supplied IPython Notebook to learn about visual techniques for exploring data, including pair plots, plots to compare distributions, and summary plots. Finally, you will use an online IPython Notebook to explore the statistical exploration of a data set, which will introduce you to  Monte Carlo Markov Chains (MCMC).

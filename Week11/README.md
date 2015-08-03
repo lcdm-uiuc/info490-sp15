@@ -1,5 +1,5 @@
 #Week 11 Overview#
-![SQLite Python Logo](sqlite_python_logo.png)
+![SQLite Python Logo](images/sqlite_python_logo.png)
 ## Advanced Data Persistence ##
 
 In this week, you will learn about working with relational databases from a Python program. First you will learn about establishing a database connection from within a Python program and using this connection to obtain a reference to a database cursor. By using this cursor, you will next learn how to issue queries and also update/insert statements on existing database. Next you will learn how you can use a Pandas DataFrame to simplify large parts of these tasks. Finally, you will be introduced to NoSQL databases, which are "not only" SQL data storage techniques, including the MongoDB and Apache Cassandra technologies.

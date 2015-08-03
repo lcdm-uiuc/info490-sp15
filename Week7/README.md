@@ -28,4 +28,6 @@ In this week, you will be introduced to statistical analysis, which is very impo
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: [Conditional Risk](http://imgs.xkcd.com/comics/conditional_risk.png) by Randall Monroe. Accessed on 31 July 2015.

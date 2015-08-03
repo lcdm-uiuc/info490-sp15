@@ -28,4 +28,6 @@ In this week, you will learn to perform data science tasks at the Unix prompt. F
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Command Line Screen Shot by Jim Hoskins. 27 Sept. 2012. http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line. 31 July 2015

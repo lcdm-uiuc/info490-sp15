@@ -27,4 +27,6 @@ In this week, you will begin to use Python to work with data. First, you will le
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: [Extrapolating Comic](http://imgs.xkcd.com/comics/extrapolating.png) by Randall Monroe. Accessed on 31 of July.

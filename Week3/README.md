@@ -27,4 +27,6 @@ This week you will begin to learn how to use the Python programming language to 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.

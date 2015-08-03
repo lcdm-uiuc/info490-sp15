@@ -25,4 +25,6 @@ In this week, you will learn about working with relational databases from a Pyth
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: SQLite Python Logo by Sebastian Raschka. Created 7 March 2014. http://sebastianraschka.com/Articles/2014_sqlite_in_python_tutorial.html. Accessed 3 August 2015.

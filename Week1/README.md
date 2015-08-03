@@ -22,4 +22,6 @@
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: [Unix License Plate](https://commons.wikimedia.org/wiki/File%3AUNIX-Licence-Plate.JPG) By KHanger, 10 June 2009. Wikipedia. 30 July 2015.

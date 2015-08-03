@@ -28,4 +28,6 @@ In this week, you will learn about time series data, how to work with them in Pa
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Pandas Logo, From pandas.pydata.org. Accessed 3 August 2015.

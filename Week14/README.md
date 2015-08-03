@@ -26,4 +26,6 @@ In this week, you will learn about the cloud computing paradigm. First, you will
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Cloud Computing by Ibnu Lukman. Created 14 May 2010. http://locomostrip.com/comic/66/. Accessed 3 August 2015

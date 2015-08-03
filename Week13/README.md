@@ -26,4 +26,6 @@ In this week, you will learn about basic machine learning concepts, including su
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Tasks by Randall Munroe. http://imgs.xkcd.com/comics/tasks.png Accessed 3 August 2015.

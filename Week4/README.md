@@ -28,4 +28,6 @@ In this week, you will transition to more advanced Python programming concepts. 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Python Logo. Created 2001, Python.org, Accessed 31 July 2015.

@@ -27,4 +27,6 @@ In this week, you will learn about basic data processing tasks. First we will di
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.

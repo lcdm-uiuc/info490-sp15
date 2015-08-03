@@ -29,4 +29,6 @@ The lessons this week will focus on using an iPython notebook to create and use 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: [Sustainable Comic](http://imgs.xkcd.com/comics/sustainable.png) by Randall Monroe, Accessed on 31 July 2015.

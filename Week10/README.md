@@ -25,4 +25,6 @@ This week you will learn about relational database management systems (RDBMS), s
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: If Libraries were like relational databases by Brian Panulla. Created 31 December 2010. http://ghostednotes.com/2010/12/31/if-libraries-were-like-relational-databases. Accessed 3 August 2015

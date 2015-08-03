@@ -22,4 +22,6 @@ In this week, you will have only one lesson, which introduces high performance c
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Blue Waters Supercomputer. From http://gladiator.ncsa.illinois.edu/Images/bluewaters/timeline/bw_front.jpg. Accessed 3 August 2015.

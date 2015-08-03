@@ -26,4 +26,6 @@ In this week, you will learn about some basic approaches to data exploration, wh
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
+----------
+
 Photo Credit: Data Mining by Rich Tennant. https://markjowen.wordpress.com/2010/06/03/data-mining/.  Accessed 3 August 2015.

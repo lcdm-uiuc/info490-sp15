@@ -17,7 +17,7 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Introduction to [SQL DDL Notebook](intro2sqlddl.ipynb)
+- Introduction to [SQL DDL Notebook](notebook/intro2sqlddl.ipynb)
 
 
 #### *Optional Additional Readings*####

@@ -18,7 +18,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Data Parsing](intro2dp.ipynb)
+- Course IPython Notebook on [Data Parsing](notebook/intro2dp.ipynb)
 - [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) documentation
 
 #### *Optional Additional Readings*####

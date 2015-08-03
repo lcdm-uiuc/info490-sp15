@@ -1,5 +1,5 @@
 #Week 13 Overview#
-![XKCD Tasks comic](XKCDMachineLearning.png)
+![XKCD Tasks comic](images/XKCDMachineLearning.png)
 ## Machine Learning ##
 
 In this week, you will learn about basic machine learning concepts, including supervised learning, unsupervised learning, dimensional reduction, and cluster finding. We will use the sickout_learn library to perform these tasks, specifically introducing the KNN, SVM, decision trees, and random forest classification algorithms, the PCA dimensional reduction algorithm, and the k-means cluster finding algorithm. 

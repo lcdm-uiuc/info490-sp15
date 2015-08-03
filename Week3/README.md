@@ -1,5 +1,5 @@
 #Week 3 Overview#
-![python logo](python-logo.png)
+![python logo](images/python-logo.png)
 ## Introduction to the Python Programming Language ##
 
 This week you will begin to learn how to use the Python programming language to write simple programs. First, you will learn the basic syntax of the language and what it means to write a Python program. Next, you will learn how to create and use variables, which store data, learn how to write an expression, and how to use the built-in Python operators to manipulate your data. Third, you will learn how to write and use functions in Python, and you will learn about conditional execution. Finally, you will learn about the wide range of built-in data types that are provided as part of the Python language, including the list, string, dictionary, and tuple.

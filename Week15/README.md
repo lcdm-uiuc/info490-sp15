@@ -1,5 +1,5 @@
 #Week 15 Overview#
-![Blue Waters Supercomputer](bluewatersimage.jpg)
+![Blue Waters Supercomputer](images/bluewatersimage.jpg)
 ## Introduction to High Performance Computing with Python ##
 
 In this week, you will have only one lesson, which introduces high performance computing with Python, including an introduction to the Python threading and multiprocessing libraries. We also will cover the IPython cluster model, as well as  review of several commercial and open-source libraries such as the mpi4py library.

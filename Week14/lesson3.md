@@ -17,7 +17,7 @@ Approximately 3 hours.
 
 ### Readings ####
 
-- Introduction to Hadoop Course [IPython Notebook](intro2dh.ipynb)
+- Introduction to Hadoop Course [IPython Notebook](notebookintro2dh.ipynb)
 - HortonWorks Overview of [Hadoop](http://hortonworks.com/hadoop-tutorial/hello-world-an-introduction-to-hadoop-hcatalog-hive-and-pig/#overview) (Note they allow you to download a full Hadoop Virtual Machine, our Docker container approach is lighter on your host computer).
 
 

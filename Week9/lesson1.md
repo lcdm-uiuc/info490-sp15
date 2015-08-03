@@ -20,7 +20,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](dataformats.ipynb) on Data Formats
+- Course [IPython Notebook](notebook/dataformats.ipynb) on Data Formats
 
 #### *Optional Additional Readings*####
 

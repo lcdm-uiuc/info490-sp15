@@ -1,5 +1,5 @@
 #Week 14 Overview#
-![Cloud Computing Comic](cloudcomputing.png)
+![Cloud Computing Comic](images/cloudcomputing.png)
 ## Introduction to Cloud Computing ##
 
 In this week, you will learn about the cloud computing paradigm. First, you will learn more about Docker images and containers and how they can be deployed in a cloud computing framework. Second, you will learn how to use the Google Compute Engine, including how to specifically deploy our course Docker image within the Google Compute Engine. Finally, you will learn about Hadoop, HDFS, and how to write and deploy a map-reduce task within Hadoop.

@@ -1,5 +1,5 @@
 #Week 9 Overview#
-
+![Data Processing Comic](BBQ.gif)
 ## Introduction to Data Processing ##
 
 In this week, you will learn about basic data processing tasks. First we will discuss different data file formats like text, XML, JSON, and HDF. Next, we will discuss data parsing, which is used to extract data from structured data formats. Finally, we will use these skills to make a Chloropeth visualization.
@@ -27,4 +27,4 @@ In this week, you will learn about basic data processing tasks. First we will di
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
-Photo Credit:
+Photo Credit: Data Processing Center.  By Harley Schwadron. From cartoonstock.com.  Accessed 3 August 2015.

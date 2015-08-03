@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course [IPython Notebook](intro2pandasdb.ipynb), which you can view online or (better yet) download and run locally.
+- Course [IPython Notebook](notebook/intro2pandasdb.ipynb), which you can view online or (better yet) download and run locally.
 
 #### *Optional Additional Readings*####
 

@@ -18,7 +18,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Introduction to [Data Persistence Notebook](intro2db.ipynb)
+- Introduction to [Data Persistence Notebook](notebook/intro2db.ipynb)
 
 #### *Optional Additional Readings*####
 

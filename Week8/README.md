@@ -1,5 +1,5 @@
 #Week 8 Overview#
-![Pandas logo](pandas_logo.png)
+![Pandas logo](images/pandas_logo.png)
 ## Time Series Data ##
 
 In this week, you will learn about time series data, how to work with them in Pandas and how to visualize them by using Seaborn. Time Series data are everywhere, and while often simple in content (e.g., a one dimensional array indexed by time) they often support rich data mining opportunities. As an example, the last lesson in this week focuses on mining twitter streams, which can be viewed as a time series.

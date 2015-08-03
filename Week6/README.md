@@ -1,5 +1,5 @@
 #Week 6 Overview#
-![XKCD Extrapolating](extrapolating.png)
+![XKCD Extrapolating](images/extrapolating.png)
 ## Introduction to Data Analysis in Python ##
 
 In this week, you will begin to use Python to work with data. First, you will learn about the Pandas library, which can greatly simplify working with large, structured data sets (Pandas introduces many concepts from the R language into Python). You will learn about the Pandas DataFrame object and how to use it to select, group, and filter data. Finally, you will learn about basic statistical measurements, theoretical data distributions, and how to use them in Python programs.

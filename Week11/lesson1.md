@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python database interactions](dbNpy.ipynb) 
+- Course IPython Notebook on [Python database interactions](notebook/dbNpy.ipynb) 
 
 #### *Optional Additional Readings*####
 

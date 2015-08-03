@@ -1,5 +1,5 @@
 #Week 10 Overview#
-![Relational Databases Comic](relational_databases.jpg)
+![Relational Databases Comic](images/relational_databases.jpg)
 ## Introduction to Data Persistence ##
 
 This week you will learn about relational database management systems (RDBMS), still the most popular data storage technology. You will learn SQL, the language by which database users interact with a relational database. To test database and SQL concepts, we will use the open source database system known as SQLite, specifically version 3 of the SQLite database known as sqlite3. Note, most of the documentation you will read and follow online will refer to running the sqlite program at the command line, you will run the sqlite3 program both from within an IPython Notebook and at the command line. Using SQLite, you will learn about SQL data definition language (DDL) functionality and SQL data manipulation language (DML) functionality. 

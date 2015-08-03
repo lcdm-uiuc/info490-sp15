@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course Data [Chloropeth Visualization](dataviz.ipynb) Notebook
+- Course Data [Chloropeth Visualization](notebook/dataviz.ipynb) Notebook
 - Python [Requests](http://docs.python-requests.org/en/latest/)
 
 #### *Optional Additional Readings*####

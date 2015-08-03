@@ -23,7 +23,7 @@ Approximately 2 hours.
 #### *Optional Additional Readings*####
 - [An introduction to the Containers](http://googlecloudplatform.blogspot.com/2015/01/in-coming-weeks-we-will-be-publishing.html) from the Google Cloud Computing Blog.
 - Try out [Dockers](https://hub-beta-stage.docker.com/enterprise/trial/) online.
-- 
+
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the Week 1 Lesson 1 Assessment.

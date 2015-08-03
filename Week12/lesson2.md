@@ -17,7 +17,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Course IPython Notebook on [Python data visual exploration](dataexplore.ipynb) 
+- Course IPython Notebook on [Python data visual exploration](notebook/dataexplore.ipynb) 
 
 #### *Optional Additional Readings*####
 
